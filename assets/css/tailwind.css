@@ -1,0 +1,9 @@
+@import './fonts.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply text-zinc-900 bg-zinc-50 dark:text-zinc-50 dark:bg-zinc-900;
+}

@@ -1,0 +1,14 @@
+@layer base {
+  /* Display */
+  @font-face {
+    font-family: 'reanimationBlackletter';
+    src: url('/assets/fonts/reanimationBlackletter.otf') format('otf'),
+      url('/assets/fonts/reainmationBlackletter.ttf') format('truetype');
+  }
+  /* Sans Fonts */
+  @font-face {
+    font-family: 'reanimationSansSerif';
+    src: url('/assets/fonts/reanimationSansSerif.otf') format('otf'),
+      url('/assets/fonts/reanimationSansSerif.ttf') format('truetype');
+  }
+}
